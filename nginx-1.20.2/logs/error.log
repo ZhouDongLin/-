@@ -1,0 +1,28 @@
+2021/12/20 14:40:47 [emerg] 24608#9400: invalid location modifier "/" in D:\HBuild\nginx-1.20.2/conf/nginx.conf:49
+2021/12/20 14:41:05 [emerg] 4148#23572: invalid location modifier "/" in D:\HBuild\nginx-1.20.2/conf/nginx.conf:49
+2021/12/20 14:41:12 [emerg] 17796#25300: invalid location modifier "/" in D:\HBuild\nginx-1.20.2/conf/nginx.conf:49
+2021/12/20 14:42:52 [emerg] 7408#16888: invalid location modifier "/" in D:\HBuild\nginx-1.20.2/conf/nginx.conf:49
+2021/12/20 14:45:04 [emerg] 14792#12036: CreateFile() "D:/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2021/12/20 14:46:06 [emerg] 23912#12940: CreateFile() "D:/conf/nginx.conf" failed (3: The system cannot find the path specified)
+2021/12/20 14:48:05 [error] 16636#20184: *1 CreateFile() "D:\HBuild\nginx-1.20.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/12/20 15:09:07 [notice] 20352#14560: signal process started
+2021/12/20 15:11:18 [crit] 19708#11596: *1 GetFileAttributesEx() "D:/D:/HBuild/first/dist" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/12/20 15:11:20 [crit] 19708#11596: *2 GetFileAttributesEx() "D:/D:/HBuild/first/dist" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/12/20 15:13:13 [crit] 19708#11596: *4 GetFileAttributesEx() "D:/D:/HBuild/first/dist" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/12/20 15:13:14 [crit] 19708#11596: *5 GetFileAttributesEx() "D:/D:/HBuild/first/dist" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/12/20 15:13:15 [crit] 19708#11596: *6 GetFileAttributesEx() "D:/D:/HBuild/first/dist" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/12/20 15:13:17 [crit] 19708#11596: *7 GetFileAttributesEx() "D:/D:/HBuild/first/dist" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/12/20 15:13:18 [crit] 19708#11596: *8 GetFileAttributesEx() "D:/D:/HBuild/first/dist" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/12/20 15:13:19 [crit] 19708#11596: *9 GetFileAttributesEx() "D:/D:/HBuild/first/dist" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/12/20 15:13:38 [crit] 19708#11596: *12 GetFileAttributesEx() "D:/D:/HBuild/first/dist" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/12/20 15:15:12 [crit] 19708#11596: *15 GetFileAttributesEx() "D:/D:/HBuild/first/dist" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/12/20 15:15:14 [crit] 19708#11596: *16 GetFileAttributesEx() "D:/D:/HBuild/first/dist" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/12/20 21:49:20 [emerg] 13268#17992: invalid number of arguments in "root" directive in D:\HBuild\nginx-1.20.2/conf/nginx.conf:47
+2021/12/20 21:49:20 [alert] 24504#25276: worker process 13268 exited with code 1
+2021/12/20 21:49:20 [alert] 24504#25276: could not respawn worker
+2021/12/20 21:50:12 [emerg] 12256#17804: invalid number of arguments in "root" directive in D:\HBuild\nginx-1.20.2/conf/nginx.conf:47
+2021/12/23 16:04:27 [error] 14496#19360: *46 "D:\HBuild\inClass\dist/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/12/23 16:04:28 [error] 14496#19360: *46 CreateFile() "D:\HBuild\inClass\dist/favicon.ico" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/12/23 16:04:30 [error] 14496#19360: *46 "D:\HBuild\inClass\dist/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/12/26 20:12:44 [error] 16028#17764: *39 CreateFile() "D:\HBuild\project\dist/js/chunk-vendors.0ca3d885.js.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/chunk-vendors.0ca3d885.js.map HTTP/1.1", host: "localhost"
+2021/12/26 20:12:44 [error] 16028#17764: *40 CreateFile() "D:\HBuild\project\dist/js/app.a4106d39.js.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/app.a4106d39.js.map HTTP/1.1", host: "localhost"
