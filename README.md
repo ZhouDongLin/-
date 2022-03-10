@@ -1,2 +1,2 @@
 # -
-使用javaweb、vue完成
+使用javaweb、vue、mysql完成
